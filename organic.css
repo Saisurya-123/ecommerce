@@ -1,0 +1,60 @@
+.navbar-brand{
+    width: 10%;
+}
+.navbar{
+background-color: rgb(161, 205, 209);
+}
+.nav-item .nav-link{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.fa-bars{
+color: white;
+}
+#home{
+    background-image: url("https://img.freepik.com/premium-photo/light-pastel-organic-background_87720-80293.jpg");
+    width: 99.8vw;
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+}
+.organic{
+     color:rgb(255, 255, 255);
+     text-shadow: 2px 3px 4px black;
+}
+.aboutcontent{
+    padding: 1%;
+}
+.aboutcontent h1{
+    color: #ed6f95;
+}
+.aboutcontent p{
+    line-height: 35px;
+}
+.d-block{
+    ascept-ratio:3/1;
+}
+.fruit{
+    width: 50%;  
+}
+.input-group .input-group-text{
+    background-color: #c9d1c0;
+    color:black;
+    font-weight:bold;
+    border-radius:10px;
+}
+#footer{
+    background-color:#f1f1ed;
+    padding: 2%;
+}
+.links{
+    color:white;
+}
+.links h5{
+    text-decoration: 2px solid gold underline;
+}
+.icon .fa-brands{
+    color:white;
+    font-size:20px;
+}
